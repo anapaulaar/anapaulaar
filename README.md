@@ -9,4 +9,4 @@
 - :house: Pirassununga-SP :brazil:
 - :mortar_board: Formada em Ciência da Computação
 - :palm_tree: Javascript, HTML, CSS, Vue.js, Node.js, MySQL, MongoDB
-- :books: Atualmente aprendendo sobre Docker, teste de software e GitHub Actions
+- :books: Atualmente aprendendo sobre Docker, Teste de Software e GitHub Actions
