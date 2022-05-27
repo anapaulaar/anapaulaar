@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anapaulasf)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidaribeiroanapaula@gmail.com)
 
-## Sobre mim:
+### Sobre mim:
 - :house: Pirassununga-SP :brazil:
 - :mortar_board: Formada em Ciência da Computação
 - :palm_tree: Javascript, HTML, CSS, Vue.js, Node.js, MySQL, MongoDB
